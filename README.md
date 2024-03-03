@@ -1,4 +1,4 @@
-# Project Name
+# Attendance Application 
 
 ## Description
 Briefly describe the project's purpose and functionality.
