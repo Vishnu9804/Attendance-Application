@@ -12,16 +12,6 @@ The Attendance App is a mobile application designed for efficient tracking of at
 - [Support](#support)
 - [License](#license)
 
-## Installation
-1. **Requirements:**
-   - Android device running version X.X or above.
-   
-2. **Download:**
-   - Download the app from the [Google Play Store](#) or clone the repository.
-
-3. **Setup:**
-   - Install the app on your Android device.
-
 ## Usage
 1. **Getting Started:**
    - Launch the app and log in with your credentials.
