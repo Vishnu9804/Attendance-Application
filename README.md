@@ -9,3 +9,12 @@ The Attendance App is a mobile application designed for efficient tracking of at
 - Date and time stamp for each attendance record
 - Export attendance data in CSV format
 
+## Installation
+
+To get started with the Quiz Mobile Application,  follow these steps:
+
+1. **Clone the Repository :-**
+
+   ```bash
+   https://github.com/Vishnu9804/Attendanceapplication
+  
