@@ -11,7 +11,7 @@ The Attendance App is a mobile application designed for efficient tracking of at
 
 ## Installation
 
-To get started with the Quiz Mobile Application,  follow these steps:
+To get started with the Attendance Mobile Application,  follow these steps:
 
 1. **Clone the Repository :-**
 
