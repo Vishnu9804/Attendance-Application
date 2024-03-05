@@ -7,7 +7,7 @@ The Attendance App is a mobile application designed for efficient tracking of at
 - Easy-to-use interface for marking attendance
 - Support for multiple events or classes
 - Date and time stamp for each attendance record
-- Export attendance data in CSV format
+- Export attendance data in format
 
 ## Installation
 
